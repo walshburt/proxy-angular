@@ -1,0 +1,1 @@
+curl -v  -H --cookie 'SESSION$STATE=23474f996ad0d5459e1c7ce8a85652b6b681e29f786114101b9e2940388c6f1ba98209ebd2b85a249f0f2c423489a08eea72c2cd8ebe60bb5880f076ca97fe74; Path=/; Secure; SameSite=None' http://localhost:8080/data/rest/v2.0/groups/37603?dataLevel=20

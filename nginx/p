@@ -1,0 +1,1 @@
+curl -v  -H --cookie 'SESSION$STATE=23474f996ad0d545cc8bd759899be987870e2fcb5e17fa583fcc9cfe83a04483017f563e6c382d07000e7010bb9226eb0314554eb1c5e8a7ad4247025b24e828; Path=/; Secure; SameSite=None' https://staging.gaggle.net/data/rest/v2.0/groups/37603?dataLevel=20
